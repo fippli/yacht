@@ -1,5 +1,5 @@
 NAME=yacht
 VERSION=0.1.0
 DESCRIPTION=Yaml Configured HTml
-REPOSITORY=
+REPOSITORY=https://github.com/fippli/yacht.git
 MAIN=main
